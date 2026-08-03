@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "language": "es",
+  "threshold": 0.70,
+  "explain": true,
+  "confidence": true
+}
